@@ -6,7 +6,7 @@
 
 html {
   box-sizing: border-box;
-  font-family: font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
 
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -27,17 +27,26 @@ body {
   margin: 0;
 }
 
+.watermelon h2 {
+  font-family: "Gravitas One", cursive;
+}
+
 .watermelon {
   background-color: #e97065;
-  font-family: "Gravitas One", cursive;
+}
+
+.starfruit h2 {
+  font-family: "Rammetto One", cursive;
 }
 
 .starfruit {
   background-color: #fbd25e;
-  font-family: "Rammetto One", cursive;
+}
+
+.persimmon h2 {
+  font-family: "Comfortaa", cursive;
 }
 
 .persimmon {
   background-color: #e86033;
-  font-family: "Comfortaa", cursive;
 }
